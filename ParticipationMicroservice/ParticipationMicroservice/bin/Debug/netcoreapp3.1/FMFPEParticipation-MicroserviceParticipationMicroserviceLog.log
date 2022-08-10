@@ -1,0 +1,9 @@
+WARN  04:34:04 Storing keys in a directory '/root/.aspnet/DataProtection-Keys' that may not be persisted outside of the container. Protected data will be unavailable when container is destroyed.
+WARN  04:34:04 No XML encryptor configured. Key {685facc8-ec5e-424f-983c-30df90b704f6} may be persisted to storage in unencrypted form.
+WARN  04:34:55 Storing keys in a directory '/root/.aspnet/DataProtection-Keys' that may not be persisted outside of the container. Protected data will be unavailable when container is destroyed.
+WARN  04:36:51 Storing keys in a directory '/root/.aspnet/DataProtection-Keys' that may not be persisted outside of the container. Protected data will be unavailable when container is destroyed.
+WARN  04:36:51 No XML encryptor configured. Key {83f2f008-5ebe-47f4-8cfc-ad6e9ee127aa} may be persisted to storage in unencrypted form.
+WARN  04:43:19 Storing keys in a directory '/root/.aspnet/DataProtection-Keys' that may not be persisted outside of the container. Protected data will be unavailable when container is destroyed.
+WARN  04:43:19 No XML encryptor configured. Key {32bb7918-9746-4234-9419-eb7d8e5a667f} may be persisted to storage in unencrypted form.
+WARN  04:44:54 Storing keys in a directory '/root/.aspnet/DataProtection-Keys' that may not be persisted outside of the container. Protected data will be unavailable when container is destroyed.
+WARN  04:44:54 No XML encryptor configured. Key {04fb9d0a-07ad-49d4-8f97-2de6d435590e} may be persisted to storage in unencrypted form.

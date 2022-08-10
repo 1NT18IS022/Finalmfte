@@ -1,0 +1,2 @@
+2022-08-05 16:40:37,167 [1] WARN Microsoft.AspNetCore.DataProtection.Repositories.FileSystemXmlRepository - Storing keys in a directory '/root/.aspnet/DataProtection-Keys' that may not be persisted outside of the container. Protected data will be unavailable when container is destroyed.
+2022-08-05 16:40:37,214 [1] WARN Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager - No XML encryptor configured. Key {c2741b55-ff39-4d7a-917a-e9618ab1fb08} may be persisted to storage in unencrypted form.

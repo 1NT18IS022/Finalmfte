@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\home",
+    "\\src\\app\\login",
+    "\\src\\app\\models",
+    "\\src\\app\\participation",
+    "\\src\\app\\participation\\add-participation",
+    "\\src\\assets"
+  ],
+  "SelectedNode": "\\src\\app\\participation\\add-participation\\add-participation.component.spec.ts",
+  "PreviewInSolutionExplorer": false
+}
